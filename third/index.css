@@ -1,0 +1,39 @@
+.header{
+    height: 100px;
+    width: 100%;
+    background-color: lightgray;
+}
+.menu-button{
+    height: 50px;
+    width: 50px;
+    margin: 25px;
+    background-color: rgb(0, 118, 187);
+    display: inline-block;
+}
+.main-content{
+    height: 200px;
+    width: 100%;
+    padding:50px;
+    box-sizing: border-box;
+    line-height: 1.15em;
+}
+.bar1{
+    height: 100px;
+    width: 100%;
+    background-color: rgb(0, 118, 187);
+}
+.bar2{
+    height: 100px;
+    width: 100%;
+    background-color: rgb(0, 192, 128);
+}
+.bar3{
+    height: 100px;
+    width: 100%;
+    background-color: rgb(158, 255, 93);
+}
+.bar4{
+    height: 100px;
+    width: 100%;
+    background-color: yellow;
+}
